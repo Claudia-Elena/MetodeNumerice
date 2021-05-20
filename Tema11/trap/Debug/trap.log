@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema11\trap\Source.cpp(9,58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema11\trap\Source.cpp(12): warning C4715: 'f': not all control paths return a value
+  trap.vcxproj -> C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema11\trap\Debug\trap.exe
