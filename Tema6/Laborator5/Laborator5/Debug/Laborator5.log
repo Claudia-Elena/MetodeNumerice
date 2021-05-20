@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema6\Laborator5\Laborator5\main.cpp(6,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Laborator5.vcxproj -> C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema6\Laborator5\Debug\Laborator5.exe
