@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema4\Laborator4\Laborator4\main.cpp(36,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema4\Laborator4\Laborator4\main.cpp(38,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Laborator4.vcxproj -> C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema4\Laborator4\Debug\Laborator4.exe
