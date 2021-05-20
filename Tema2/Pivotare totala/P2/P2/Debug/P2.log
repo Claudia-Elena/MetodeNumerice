@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(23,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(32,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(46,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(48,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(58,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(60,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(91,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\P2\main.cpp(93,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  P2.vcxproj -> C:\Users\ciont\Desktop\Facultate\Metode Numerice\Tema2\Pivotare totala\P2\Debug\P2.exe
